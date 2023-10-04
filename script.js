@@ -26,7 +26,7 @@ function LoadCategories(){
          div.className="card m-2 p-2";
          div.style.width="200px";
          div.innerHTML=`
-         <img src=${product.image} class="card-img-top" height="160" width="160">
+         <img src=${product.image} class="card-img-top" height="150" width="160">
          <div class="card-header" style="height:130px">
             <p>${product.title}</p>
          </div> 

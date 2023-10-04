@@ -1,4 +1,11 @@
 a{ 
-   color: white;
+   color: black;
    text-decoration: none;
   }
+.nav-item{
+   font-size: 18px;
+   margin-left: 50px;
+}
+a:hover{
+   color: white;
+}
